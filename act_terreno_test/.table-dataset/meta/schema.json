@@ -1,0 +1,1 @@
+[{"id": "ae139f15-ba88-53c3-3997-59f8ae54a191", "name": "id", "dataType": "integer", "primaryKeyIndex": 0, "size": 32}, {"id": "9fe59caf-10c5-065e-cbe6-69c7adb60762", "name": "geom", "dataType": "geometry", "geometryType": "POLYGON", "geometryCRS": "EPSG:4326"}, {"id": "8e09581d-c2e9-1cb8-9a05-f773db248fd5", "name": "campo_test", "dataType": "integer", "size": 16}]
